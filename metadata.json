@@ -1,0 +1,6 @@
+{
+  "name": "Venus Hardware",
+  "description": "Dealers in all fancy interior kitchen and hardware materials located in Trichy. Architectural hardware, modular kitchen fittings, fancy handles, and accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
